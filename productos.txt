@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "escuadra",
+    "price": 143.13,
+    "foto": "url"
+  },
+  {
+    "id": 2,
+    "title": "mapa",
+    "price": 113.12,
+    "foto": "url"
+  },
+  {
+    "id":3,
+    "title":"globo terraqueo",
+    "price":135.32,
+    "foto":"url"
+  },
+  {
+    "id": 4,
+    "title": "perro",
+    "price": 1235.4,
+    "foto": "url"
+  }
+]
